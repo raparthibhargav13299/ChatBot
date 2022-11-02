@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T17:46:57.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="m4iaC7L53cHcxYBL-HTi" type="github"><diagram id="sQ6EA821Fc-jCZmqMExB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-02T17:59:45.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ftjGoEFxRQWjC-7LeL3c" version="20.5.1" type="github">
+  <diagram id="sQ6EA821Fc-jCZmqMExB" name="Page-1">
+    <mxGraphModel dx="1209" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-1" value="Build Issues(CI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-2" value="Git Issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-3" value="Branching/Build related&lt;br&gt;information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-4" value="Setup Issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-5" value="checkin merge conflict issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-6" value="push/pull/commit related issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-8" value="checkin retrigger issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="255" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-9" value="Latest branch of specific version" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-10" value="is my checkin included in build" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-11" value="New microservice creation document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-12" value="Build Failure issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-15" value="Git Setup document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvEF1bXKfAxO_k4IrG6u-16" value="Documents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
